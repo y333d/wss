@@ -17,7 +17,7 @@ local AdminsIds = {
         ["Rank"] = 2,
         ["Colour"] = Color3.fromRGB(210, 52, 235)
     }, 
-        [2633244776] = {
+        [7000673333] = {
         ["Name"] = "Travis",
         ["SubName"] = "+perms",
         ["Rank"] = 2,
