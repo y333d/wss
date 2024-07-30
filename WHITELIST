@@ -1,0 +1,45 @@
+local AdminsIds = {
+    [4896002560] = {
+        ["Name"] = "Useless",
+        ["SubName"] = "owner",
+        ["Rank"] = 5,
+        ["Colour"] = Color3.fromRGB(204, 0, 34)
+    }, 
+     [4732304947] = {
+        ["Name"] = "#1st member",
+        ["SubName"] = "+perms",
+        ["Rank"] = 2,
+        ["Colour"] = Color3.fromRGB(20, 0, 34)
+    }, 
+         [2633244776] = {
+        ["Name"] = "cam1494",
+        ["SubName"] = "+perms",
+        ["Rank"] = 2,
+        ["Colour"] = Color3.fromRGB(210, 52, 235)
+    }, 
+        [1477553521] = {
+        ["Name"] = "n4g",
+        ["SubName"] = "Admin",
+        ["Rank"] = 3,
+        ["Colour"] = Color3.fromRGB(20, 20, 20)
+    },--
+}
+
+local BlackListIds = {
+    [326663524] = {
+        --SuzanneHarrison76 REASON: Skid, and uses LINUX LMAO
+        ["Name"] = "Suzanne",
+        ["SubName"] = "Skid1",
+        ["Rank"] = -69,
+        ["Colour"] = Color3.fromRGB(0, 0, 1)
+    },
+    [2929825453] = {
+        -- showed no effort in helping so eh
+        ["Name"] = "gluesticky5",
+        ["SubName"] = "notahelper",
+        ["Rank"] = -69,
+        ["Colour"] = Color3.fromRGB(0, 0, 1)
+    }
+}
+local PlayersInGame = {}
+local AdminsInGame = {}
