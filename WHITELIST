@@ -1,6 +1,6 @@
 local AdminsIds = {
     [4896002560] = {
-        ["Name"] = "Useless",
+        ["Name"] = "Unc ymxm",
         ["SubName"] = "owner",
         ["Rank"] = 5,
         ["Colour"] = Color3.fromRGB(204, 0, 34)
@@ -16,6 +16,12 @@ local AdminsIds = {
         ["SubName"] = "+perms",
         ["Rank"] = 2,
         ["Colour"] = Color3.fromRGB(210, 52, 235)
+    }, 
+        [2633244776] = {
+        ["Name"] = "Travis",
+        ["SubName"] = "+perms",
+        ["Rank"] = 2,
+        ["Colour"] = Color3.fromRGB(1, 1, 1)
     }, 
         [1477553521] = {
         ["Name"] = "n4g",
